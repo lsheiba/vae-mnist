@@ -2,3 +2,4 @@
 MNIST_data/
 checkpoints/
 
+vae.code-workspace
